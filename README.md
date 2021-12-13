@@ -20,9 +20,9 @@ Crea un hito o punto de control con todos los cambios agregados desde el ultimo 
 - En infinitivo
 - En presente simple
 ## git log
-
-## git branch
-
+Muestra el historial de commits del repositorio y branch actuales, el hash de cada uno asi como fecha y hora, autor y mensaje.
+## git checkout
+Permite desplazarse entre ramas git checkout nombre-de-la-rama asi como crear nuevas ramas git checkout -b "nombre-de-la-rama"
 ## git push
 
 ## git pull
