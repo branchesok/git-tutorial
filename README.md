@@ -11,7 +11,7 @@ Comando que sirve para clonar un repositorio remoto (por ejemplo en github) de m
 ## git status
 Este comando muestra el estado del repositorio
 ## git add
-
+Agrega los cambios realizados en archivos/directorios del proyecto para formar parte del potencial proximo commit
 ## git commit
 
 ### good commits messages
