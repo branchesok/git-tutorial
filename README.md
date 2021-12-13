@@ -7,9 +7,9 @@ Github es un servicio web que aloja codigo y trabaja con git
 ## git init
 Es un comando que se utiliza para crear un nuevo repositorio o una nuevo proyecto
 ## git clone
-Comando que sirve para clonar un repositorio
+Comando que sirve para clonar un repositorio remoto (por ejemplo en github) de manera local
 ## git status
-
+Este comando muestra el estado del repositorio
 ## git add
 
 ## git commit
