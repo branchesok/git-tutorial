@@ -13,7 +13,7 @@ Este comando muestra el estado del repositorio
 ## git add
 Agrega los cambios realizados en archivos/directorios del proyecto para formar parte del potencial proximo commit
 ## git commit
-
+Crea un hito o punto de control con todos los cambios agregados desde el ultimo commit , permite añadirle un mensaje descriptivo
 ### good commits messages
 
 ## git log
