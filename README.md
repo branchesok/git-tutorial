@@ -5,7 +5,7 @@ Git es un software de control de versiones
 ## ¿Qué es github?
 Github es un servicio web que aloja codigo y trabaja con git
 ## git init
-Es un comando que se utiliza para crear un nuevo directorio o una nueva rama
+Es un comando que se utiliza para crear un nuevo repositorio o una nuevo proyecto
 ## git clone
 Comando que sirve para clonar un repositorio
 ## git status
