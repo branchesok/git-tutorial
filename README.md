@@ -26,7 +26,7 @@ Permite desplazarse entre ramas git checkout nombre-de-la-rama asi como crear nu
 ## git push
 Publica los commits locales en un repositorio remoto ej:GitHub
 ## git pull
-
+Actualiza el repositorio local con los commits publicados en el repositorio remoto y que sean faltantes
 ## git merge
 
 ## .gitignore
