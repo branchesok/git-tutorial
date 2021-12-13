@@ -15,7 +15,10 @@ Agrega los cambios realizados en archivos/directorios del proyecto para formar p
 ## git commit
 Crea un hito o punto de control con todos los cambios agregados desde el ultimo commit , permite añadirle un mensaje descriptivo
 ### good commits messages
-
+- Capitalizados
+- En ingles
+- En infinitivo
+- En presente simple
 ## git log
 
 ## git branch
